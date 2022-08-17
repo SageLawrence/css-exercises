@@ -37,22 +37,7 @@ ul {
   gap: 8px;
 }
 
-a:link {
-  text-decoration: none; 
-  color: gray;
-}
-
-a:visited { 
-  text-decoration: none; 
-  color: gray;
-}
-
-a:hover { 
-  text-decoration: none; 
-  color: gray;
-}
-
-a:active {
+a, a:hover, a:visited, a:active {
   text-decoration: none; 
   color: gray;
 }
